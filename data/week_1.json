@@ -5,7 +5,7 @@
     "endTime": 1737502920,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "30810000000.0",
+    "totalBids": "30860000000.0",
     "status": "active"
   },
   "bids": {
@@ -13,6 +13,7 @@
       "1.25",
       "1.25",
       "1.24",
+      "1.23",
       "1.23",
       "1.22",
       "1.21",
@@ -22,7 +23,6 @@
       "1.19",
       "1.19",
       "1.19",
-      "1.18",
       "1.18"
     ],
     "users": [
@@ -37,6 +37,10 @@
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
+      },
+      {
+        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
+        "ensName": "anitamaxwynn.eth"
       },
       {
         "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
@@ -77,12 +81,8 @@
       {
         "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
         "ensName": null
-      },
-      {
-        "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:38:11.980Z"
+  "lastUpdated": "2025-01-21T23:39:11.732Z"
 }
