@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737501300,
+    "endTime": 1737501480,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "29200000000.0",
+    "totalBids": "29230000000.0",
     "status": "active"
   },
   "bids": {
@@ -17,10 +17,10 @@
       "1.14",
       "1.13",
       "1.13",
+      "1.13",
       "1.12",
       "1.12",
       "1.12",
-      "1.11",
       "1.11",
       "1.11",
       "1.11"
@@ -55,6 +55,10 @@
         "ensName": null
       },
       {
+        "address": "0x307a693C69515cA0FAD41f672Be3555C7a7C871E",
+        "ensName": null
+      },
+      {
         "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
         "ensName": "hittman.eth"
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:13:10.739Z"
+  "lastUpdated": "2025-01-21T23:14:10.531Z"
 }
