@@ -5,7 +5,7 @@
     "endTime": 1737500940,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "28690000000.0",
+    "totalBids": "28750000000.0",
     "status": "active"
   },
   "bids": {
@@ -17,13 +17,13 @@
       "1.11",
       "1.11",
       "1.11",
+      "1.11",
       "1.1",
       "1.1",
       "1.1",
       "1.09",
       "1.09",
-      "1.08",
-      "1.07"
+      "1.08"
     ],
     "users": [
       {
@@ -49,6 +49,10 @@
       {
         "address": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
         "ensName": "hittman.eth"
+      },
+      {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
       },
       {
         "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
@@ -77,12 +81,8 @@
       {
         "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
         "ensName": null
-      },
-      {
-        "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:04:11.372Z"
+  "lastUpdated": "2025-01-21T23:05:10.209Z"
 }
