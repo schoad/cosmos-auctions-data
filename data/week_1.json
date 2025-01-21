@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737503640,
+    "endTime": 1737503820,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "31490000000.0",
+    "totalBids": "31540000000.0",
     "status": "active"
   },
   "bids": {
@@ -16,14 +16,14 @@
       "1.25",
       "1.25",
       "1.25",
+      "1.25",
       "1.24",
       "1.24",
       "1.23",
       "1.23",
       "1.22",
       "1.22",
-      "1.21",
-      "1.21"
+      "1.22"
     ],
     "users": [
       {
@@ -51,6 +51,10 @@
         "ensName": "hittman.eth"
       },
       {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
       },
@@ -67,22 +71,18 @@
         "ensName": "jeigh.eth"
       },
       {
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
+      },
+      {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
       },
       {
         "address": "0x21e243a8865a4645F149F7080EEd2B8495BE42Bf",
         "ensName": null
-      },
-      {
-        "address": "0xBd3BCf36e0Df2f0BC502B7C57F1f34B3218cb78b",
-        "ensName": "ghostpepperx.eth"
-      },
-      {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:51:12.204Z"
+  "lastUpdated": "2025-01-21T23:52:12.440Z"
 }
