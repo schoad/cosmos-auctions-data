@@ -5,7 +5,7 @@
     "endTime": 1737500400,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "15230000000.0",
+    "totalBids": "15240000000.0",
     "status": "active"
   },
   "bids": {
@@ -22,7 +22,7 @@
       "0.82",
       "0.82",
       "0.81",
-      "0.8",
+      "0.81",
       "0.8"
     ],
     "users": [
@@ -37,10 +37,10 @@
       "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
       "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
       "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
+      "0xad83De234fD218391056786601022D384Cb0dcb8",
       "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
-      "0xEC6a0C08Eb2E8C9e8FFb99734723675Bf40Cf64B",
-      "0xcfBECd1ba28AF429C4063E33901F8c0Bd53eC9F1"
+      "0xEC6a0C08Eb2E8C9e8FFb99734723675Bf40Cf64B"
     ]
   },
-  "lastUpdated": "2025-01-21T16:26:00.035Z"
+  "lastUpdated": "2025-01-21T16:26:59.878Z"
 }
