@@ -2,18 +2,20 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737501120,
+    "endTime": 1737501300,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "29120000000.0",
+    "totalBids": "29200000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
       "1.22",
       "1.18",
+      "1.15",
       "1.14",
       "1.14",
+      "1.13",
       "1.13",
       "1.12",
       "1.12",
@@ -21,9 +23,7 @@
       "1.11",
       "1.11",
       "1.11",
-      "1.11",
-      "1.11",
-      "1.1"
+      "1.11"
     ],
     "users": [
       {
@@ -35,12 +35,20 @@
         "ensName": null
       },
       {
+        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
+        "ensName": null
+      },
+      {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
       },
       {
         "address": "0x340fB7B4759C312D65ab8a65763490877f36524c",
         "ensName": null
+      },
+      {
+        "address": "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
+        "ensName": "soursage.eth"
       },
       {
         "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
@@ -73,16 +81,8 @@
       {
         "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
-      },
-      {
-        "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
-        "ensName": "schoad.eth"
-      },
-      {
-        "address": "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
-        "ensName": "soursage.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:09:10.425Z"
+  "lastUpdated": "2025-01-21T23:10:10.390Z"
 }
