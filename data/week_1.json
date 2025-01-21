@@ -5,11 +5,12 @@
     "endTime": 1737502200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "30260000000.0",
+    "totalBids": "30430000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
+      "1.24",
       "1.22",
       "1.2",
       "1.19",
@@ -18,14 +19,17 @@
       "1.18",
       "1.18",
       "1.18",
+      "1.18",
+      "1.18",
       "1.17",
-      "1.15",
-      "1.15",
-      "1.15",
       "1.15",
       "1.15"
     ],
     "users": [
+      {
+        "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
+        "ensName": "rucogaj.eth"
+      },
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
@@ -51,12 +55,20 @@
         "ensName": null
       },
       {
+        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
+        "ensName": "anitamaxwynn.eth"
+      },
+      {
         "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
         "ensName": null
       },
       {
         "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
+      },
+      {
+        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
+        "ensName": "jeigh.eth"
       },
       {
         "address": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
@@ -69,20 +81,8 @@
       {
         "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
         "ensName": "mugogi.eth"
-      },
-      {
-        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
-        "ensName": null
-      },
-      {
-        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
-        "ensName": null
-      },
-      {
-        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
-        "ensName": "jeigh.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:26:11.163Z"
+  "lastUpdated": "2025-01-21T23:27:11.379Z"
 }
