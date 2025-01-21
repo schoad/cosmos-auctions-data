@@ -2,14 +2,15 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737502740,
+    "endTime": 1737502920,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "30740000000.0",
+    "totalBids": "30810000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
+      "1.25",
       "1.25",
       "1.24",
       "1.23",
@@ -22,10 +23,13 @@
       "1.19",
       "1.19",
       "1.18",
-      "1.18",
       "1.18"
     ],
     "users": [
+      {
+        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
+        "ensName": null
+      },
       {
         "address": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
         "ensName": "hittman.eth"
@@ -77,12 +81,8 @@
       {
         "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
         "ensName": null
-      },
-      {
-        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
-        "ensName": "anitamaxwynn.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:36:11.582Z"
+  "lastUpdated": "2025-01-21T23:37:11.489Z"
 }
