@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737502020,
+    "endTime": 1737502200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "30160000000.0",
+    "totalBids": "30250000000.0",
     "status": "active"
   },
   "bids": {
@@ -13,6 +13,8 @@
       "1.22",
       "1.2",
       "1.19",
+      "1.19",
+      "1.18",
       "1.18",
       "1.18",
       "1.18",
@@ -21,8 +23,6 @@
       "1.15",
       "1.15",
       "1.15",
-      "1.14",
-      "1.14",
       "1.14"
     ],
     "users": [
@@ -39,6 +39,10 @@
         "ensName": null
       },
       {
+        "address": "0x340fB7B4759C312D65ab8a65763490877f36524c",
+        "ensName": null
+      },
+      {
         "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
         "ensName": null
       },
@@ -48,6 +52,10 @@
       },
       {
         "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
+        "ensName": null
+      },
+      {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
       },
       {
@@ -73,16 +81,8 @@
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
-      },
-      {
-        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
-        "ensName": "anitamaxwynn.eth"
-      },
-      {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:24:12.100Z"
+  "lastUpdated": "2025-01-21T23:25:11.064Z"
 }
