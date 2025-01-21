@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737503100,
+    "endTime": 1737503280,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "30980000000.0",
+    "totalBids": "31180000000.0",
     "status": "active"
   },
   "bids": {
@@ -13,6 +13,7 @@
       "1.28",
       "1.25",
       "1.25",
+      "1.24",
       "1.24",
       "1.23",
       "1.23",
@@ -22,8 +23,7 @@
       "1.2",
       "1.2",
       "1.2",
-      "1.19",
-      "1.19"
+      "1.2"
     ],
     "users": [
       {
@@ -41,6 +41,10 @@
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
+      },
+      {
+        "address": "0x9e68003214Bb9a47336039356A54ebBdBB1Bd591",
+        "ensName": null
       },
       {
         "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
@@ -75,14 +79,10 @@
         "ensName": null
       },
       {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
-      },
-      {
-        "address": "0x9e68003214Bb9a47336039356A54ebBdBB1Bd591",
+        "address": "0x21e243a8865a4645F149F7080EEd2B8495BE42Bf",
         "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:43:12.772Z"
+  "lastUpdated": "2025-01-21T23:44:47.207Z"
 }
