@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737503460,
+    "endTime": 1737503640,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "31470000000.0",
+    "totalBids": "31490000000.0",
     "status": "active"
   },
   "bids": {
@@ -21,7 +21,7 @@
       "1.23",
       "1.23",
       "1.22",
-      "1.21",
+      "1.22",
       "1.21",
       "1.21"
     ],
@@ -71,18 +71,18 @@
         "ensName": "spiritape.eth"
       },
       {
+        "address": "0x21e243a8865a4645F149F7080EEd2B8495BE42Bf",
+        "ensName": null
+      },
+      {
         "address": "0xBd3BCf36e0Df2f0BC502B7C57F1f34B3218cb78b",
         "ensName": "ghostpepperx.eth"
       },
       {
         "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
         "ensName": "mugogi.eth"
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:49:12.107Z"
+  "lastUpdated": "2025-01-21T23:50:12.182Z"
 }
