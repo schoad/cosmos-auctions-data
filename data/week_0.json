@@ -1,0 +1,46 @@
+{
+  "auction": {
+    "auctionID": 0,
+    "startTime": 1736445600,
+    "endTime": 1736880840,
+    "winningBids": 14,
+    "minStartingBid": "800000000.0",
+    "totalBids": "38350000000.0",
+    "status": "ended"
+  },
+  "bids": {
+    "amounts": [
+      "1.5",
+      "1.33",
+      "1.25",
+      "1.25",
+      "1.25",
+      "1.24",
+      "1.23",
+      "1.23",
+      "1.22",
+      "1.22",
+      "1.22",
+      "1.21",
+      "1.21",
+      "1.21"
+    ],
+    "users": [
+      "0x52820e2C638E5D12fc12AE79E2604dE17A04A6ad",
+      "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
+      "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
+      "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
+      "0x5A70ec52E977B50c9fc12Ca0aA6d5e26E7C62291",
+      "0x340fB7B4759C312D65ab8a65763490877f36524c",
+      "0x7a1c5e9dc063a6915855247E96eFAb3CfC20ad9D",
+      "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
+      "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
+      "0x8f73A12dF13eaf4Dc0Afb5732e948971FdE209A6",
+      "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
+      "0xad83De234fD218391056786601022D384Cb0dcb8",
+      "0xA1C0c0FF6EaA63e7B0C7BF441Fc146aFDb08fc7B",
+      "0x8c68066cD6c33AEc47C7681f65dd2096E0d42404"
+    ]
+  },
+  "lastUpdated": "2025-01-21T13:21:27.714Z"
+}
