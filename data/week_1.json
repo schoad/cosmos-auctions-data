@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 1,
     "startTime": 1737147600,
-    "endTime": 1737500760,
+    "endTime": 1737500940,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "27580000000.0",
+    "totalBids": "28690000000.0",
     "status": "active"
   },
   "bids": {
@@ -16,14 +16,14 @@
       "1.12",
       "1.11",
       "1.11",
+      "1.11",
       "1.1",
       "1.1",
       "1.1",
       "1.09",
       "1.09",
       "1.08",
-      "1.07",
-      "1.06"
+      "1.07"
     ],
     "users": [
       {
@@ -41,6 +41,10 @@
       {
         "address": "0x427b543DfBF2E14F5d7a22a6c619d4bDeD7CE279",
         "ensName": null
+      },
+      {
+        "address": "0xBd3BCf36e0Df2f0BC502B7C57F1f34B3218cb78b",
+        "ensName": "ghostpepperx.eth"
       },
       {
         "address": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
@@ -77,12 +81,8 @@
       {
         "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
         "ensName": null
-      },
-      {
-        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
-        "ensName": "jeigh.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:03:10.113Z"
+  "lastUpdated": "2025-01-21T23:04:11.372Z"
 }
