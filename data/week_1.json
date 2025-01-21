@@ -5,11 +5,12 @@
     "endTime": 1737500760,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "27290000000.0",
+    "totalBids": "27470000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
+      "1.14",
       "1.14",
       "1.13",
       "1.12",
@@ -17,18 +18,21 @@
       "1.11",
       "1.1",
       "1.09",
+      "1.09",
       "1.08",
       "1.07",
       "1.06",
       "1.05",
-      "1.05",
-      "1.05",
-      "1.04"
+      "1.05"
     ],
     "users": [
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
+      },
+      {
+        "address": "0x340fB7B4759C312D65ab8a65763490877f36524c",
+        "ensName": null
       },
       {
         "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
@@ -48,6 +52,10 @@
       },
       {
         "address": "0x307a693C69515cA0FAD41f672Be3555C7a7C871E",
+        "ensName": null
+      },
+      {
+        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
         "ensName": null
       },
       {
@@ -73,16 +81,8 @@
       {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
-      },
-      {
-        "address": "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
-        "ensName": "soursage.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:01:10.039Z"
+  "lastUpdated": "2025-01-21T23:02:10.134Z"
 }
