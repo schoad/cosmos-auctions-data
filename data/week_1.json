@@ -5,14 +5,17 @@
     "endTime": 1737501660,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "29420000000.0",
+    "totalBids": "29650000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
       "1.22",
+      "1.2",
       "1.18",
       "1.17",
+      "1.15",
+      "1.15",
       "1.15",
       "1.14",
       "1.14",
@@ -20,15 +23,16 @@
       "1.14",
       "1.13",
       "1.13",
-      "1.13",
-      "1.12",
-      "1.12",
-      "1.12"
+      "1.13"
     ],
     "users": [
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
+      },
+      {
+        "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
+        "ensName": null
       },
       {
         "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
@@ -39,8 +43,16 @@
         "ensName": "hittman.eth"
       },
       {
+        "address": "0xBd3BCf36e0Df2f0BC502B7C57F1f34B3218cb78b",
+        "ensName": "ghostpepperx.eth"
+      },
+      {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
+      },
+      {
+        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
+        "ensName": "jeigh.eth"
       },
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
@@ -67,22 +79,10 @@
         "ensName": null
       },
       {
-        "address": "0x307a693C69515cA0FAD41f672Be3555C7a7C871E",
-        "ensName": null
-      },
-      {
-        "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
-        "ensName": null
-      },
-      {
-        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
-        "ensName": null
-      },
-      {
-        "address": "0x427b543DfBF2E14F5d7a22a6c619d4bDeD7CE279",
-        "ensName": null
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:17:10.905Z"
+  "lastUpdated": "2025-01-21T23:18:10.809Z"
 }
