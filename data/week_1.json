@@ -5,13 +5,15 @@
     "endTime": 1737502020,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "29740000000.0",
+    "totalBids": "30160000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
       "1.22",
       "1.2",
+      "1.19",
+      "1.18",
       "1.18",
       "1.18",
       "1.17",
@@ -19,8 +21,6 @@
       "1.15",
       "1.15",
       "1.15",
-      "1.14",
-      "1.14",
       "1.14",
       "1.14",
       "1.14"
@@ -35,11 +35,19 @@
         "ensName": null
       },
       {
+        "address": "0x9e68003214Bb9a47336039356A54ebBdBB1Bd591",
+        "ensName": null
+      },
+      {
         "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
         "ensName": null
       },
       {
         "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
+        "ensName": null
+      },
+      {
+        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
         "ensName": null
       },
       {
@@ -73,16 +81,8 @@
       {
         "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
         "ensName": "mugogi.eth"
-      },
-      {
-        "address": "0x340fB7B4759C312D65ab8a65763490877f36524c",
-        "ensName": null
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:23:11.027Z"
+  "lastUpdated": "2025-01-21T23:24:12.100Z"
 }
