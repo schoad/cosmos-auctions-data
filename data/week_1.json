@@ -5,7 +5,7 @@
     "endTime": 1737500940,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "28750000000.0",
+    "totalBids": "28800000000.0",
     "status": "active"
   },
   "bids": {
@@ -13,6 +13,7 @@
       "1.14",
       "1.14",
       "1.13",
+      "1.12",
       "1.12",
       "1.11",
       "1.11",
@@ -22,8 +23,7 @@
       "1.1",
       "1.1",
       "1.09",
-      "1.09",
-      "1.08"
+      "1.09"
     ],
     "users": [
       {
@@ -36,6 +36,10 @@
       },
       {
         "address": "0xC6A1104E1324B6119f5D9E0B7f10f69a8EB18199",
+        "ensName": null
+      },
+      {
+        "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
         "ensName": null
       },
       {
@@ -77,12 +81,8 @@
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
-      },
-      {
-        "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-21T23:05:10.209Z"
+  "lastUpdated": "2025-01-21T23:06:10.405Z"
 }
