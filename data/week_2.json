@@ -18,10 +18,10 @@
       "1.0",
       "1.0",
       "0.99",
+      "0.99",
       "0.96",
       "0.95",
       "0.94",
-      "0.93",
       "0.93",
       "0.93"
     ],
@@ -55,6 +55,10 @@
         "ensName": null
       },
       {
+        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
+        "ensName": null
+      },
+      {
         "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
         "ensName": "schoad.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xA6Ee17Ac8E5756FFF6b35b11C50DfDC1d6336116",
         "ensName": null
-      },
-      {
-        "address": "0x32a9484362dC473c74a77eC84057c81ca047245b",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-28T23:21:59.819Z"
+  "lastUpdated": "2025-01-28T23:22:13.539Z"
 }
