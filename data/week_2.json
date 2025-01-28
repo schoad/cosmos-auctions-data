@@ -22,8 +22,8 @@
       "0.99",
       "0.99",
       "0.99",
-      "0.98",
-      "0.97"
+      "0.99",
+      "0.98"
     ],
     "users": [
       {
@@ -67,6 +67,10 @@
         "ensName": null
       },
       {
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
+      },
+      {
         "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x32a9484362dC473c74a77eC84057c81ca047245b",
         "ensName": null
-      },
-      {
-        "address": "0x0329dB0Ddc11dC44eC36780b8b4F896B39F20c2d",
-        "ensName": "0xspicy.eth"
       }
     ]
   },
-  "lastUpdated": "2025-01-28T23:26:58.807Z"
+  "lastUpdated": "2025-01-28T23:27:13.753Z"
 }
