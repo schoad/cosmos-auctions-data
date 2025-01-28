@@ -5,7 +5,7 @@
     "endTime": 1738105200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "10330000000.0",
+    "totalBids": "11210000000.0",
     "status": "active"
   },
   "bids": {
@@ -17,6 +17,7 @@
       "0.95",
       "0.91",
       "0.9",
+      "0.88",
       "0.86",
       "0.85",
       "0.8",
@@ -52,6 +53,10 @@
         "ensName": null
       },
       {
+        "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
+        "ensName": "rucogaj.eth"
+      },
+      {
         "address": "0x3671bE38eCB045bAC6081986AB668AfBd20db15E",
         "ensName": null
       },
@@ -69,5 +74,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-01-28T21:50:08.022Z"
+  "lastUpdated": "2025-01-28T21:51:09.207Z"
 }
