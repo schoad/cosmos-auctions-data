@@ -5,7 +5,7 @@
     "endTime": 1738105200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "14580000000.0",
+    "totalBids": "14600000000.0",
     "status": "active"
   },
   "bids": {
@@ -22,8 +22,8 @@
       "0.86",
       "0.85",
       "0.84",
-      "0.81",
-      "0.8"
+      "0.82",
+      "0.81"
     ],
     "users": [
       {
@@ -75,14 +75,14 @@
         "ensName": "schoad.eth"
       },
       {
-        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
+        "address": "0x32a9484362dC473c74a77eC84057c81ca047245b",
         "ensName": null
       },
       {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
+        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
+        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-28T22:56:12.125Z"
+  "lastUpdated": "2025-01-28T22:57:10.929Z"
 }
