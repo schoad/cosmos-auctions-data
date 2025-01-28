@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 2,
     "startTime": 1737745200,
-    "endTime": 1738107360,
+    "endTime": 1738107540,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "21040000000.0",
+    "totalBids": "21080000000.0",
     "status": "active"
   },
   "bids": {
@@ -15,12 +15,12 @@
       "1.06",
       "1.03",
       "1.03",
+      "1.03",
       "1.02",
       "1.01",
       "1.01",
       "1.01",
       "1.01",
-      "1.0",
       "1.0",
       "1.0",
       "1.0"
@@ -45,6 +45,10 @@
       {
         "address": "0x32a9484362dC473c74a77eC84057c81ca047245b",
         "ensName": null
+      },
+      {
+        "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
+        "ensName": "schoad.eth"
       },
       {
         "address": "0x0329dB0Ddc11dC44eC36780b8b4F896B39F20c2d",
@@ -77,12 +81,8 @@
       {
         "address": "0x8D32F568CD34045584084F8628806452d149f87b",
         "ensName": null
-      },
-      {
-        "address": "0x427b543DfBF2E14F5d7a22a6c619d4bDeD7CE279",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-28T23:32:58.850Z"
+  "lastUpdated": "2025-01-28T23:33:13.917Z"
 }
