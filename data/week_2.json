@@ -5,12 +5,13 @@
     "endTime": 1738106100,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "16020000000.0",
+    "totalBids": "16150000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
       "1.26",
+      "1.01",
       "1.0",
       "1.0",
       "1.0",
@@ -22,13 +23,16 @@
       "0.92",
       "0.91",
       "0.9",
-      "0.9",
-      "0.89"
+      "0.9"
     ],
     "users": [
       {
         "address": "0xF9b58B052087aCFEa08B881844054629A23AaEaF",
         "ensName": "apeofwallstreet.eth"
+      },
+      {
+        "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
+        "ensName": "rucogaj.eth"
       },
       {
         "address": "0xE8d56dE25Be21AB5A532d2edc253705D56c165f1",
@@ -77,12 +81,8 @@
       {
         "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
         "ensName": "schoad.eth"
-      },
-      {
-        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-28T23:11:13.210Z"
+  "lastUpdated": "2025-01-28T23:11:28.227Z"
 }
