@@ -5,7 +5,7 @@
     "endTime": 1738105200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "8530000000.0",
+    "totalBids": "9480000000.0",
     "status": "active"
   },
   "bids": {
@@ -14,6 +14,7 @@
       "1.0",
       "1.0",
       "1.0",
+      "0.95",
       "0.91",
       "0.9",
       "0.86",
@@ -38,6 +39,10 @@
         "ensName": null
       },
       {
+        "address": "0x56F996E939EE1D197E0cCFB8A8bA2f890d565510",
+        "ensName": null
+      },
+      {
         "address": "0xE3A05DDFD9e89907623d6866EcD64310A19895e6",
         "ensName": null
       },
@@ -59,5 +64,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-01-28T20:08:03.641Z"
+  "lastUpdated": "2025-01-28T20:09:04.108Z"
 }
