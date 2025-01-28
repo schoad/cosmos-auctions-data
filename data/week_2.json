@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 2,
     "startTime": 1737745200,
-    "endTime": 1738105560,
+    "endTime": 1738105740,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "15630000000.0",
+    "totalBids": "15710000000.0",
     "status": "active"
   },
   "bids": {
@@ -15,6 +15,7 @@
       "1.0",
       "1.0",
       "0.95",
+      "0.93",
       "0.92",
       "0.91",
       "0.9",
@@ -22,8 +23,7 @@
       "0.88",
       "0.87",
       "0.86",
-      "0.86",
-      "0.85"
+      "0.86"
     ],
     "users": [
       {
@@ -45,6 +45,10 @@
       {
         "address": "0x56F996E939EE1D197E0cCFB8A8bA2f890d565510",
         "ensName": null
+      },
+      {
+        "address": "0x0329dB0Ddc11dC44eC36780b8b4F896B39F20c2d",
+        "ensName": "0xspicy.eth"
       },
       {
         "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
@@ -77,12 +81,8 @@
       {
         "address": "0x3671bE38eCB045bAC6081986AB668AfBd20db15E",
         "ensName": null
-      },
-      {
-        "address": "0xFEB3821EBccF27F7D024F4b0aE8Dd6e8C685e248",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-01-28T23:03:11.090Z"
+  "lastUpdated": "2025-01-28T23:04:11.225Z"
 }
