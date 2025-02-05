@@ -23,7 +23,7 @@
       "0.92",
       "0.92",
       "0.91",
-      "0.9"
+      "0.91"
     ],
     "users": [
       {
@@ -79,10 +79,10 @@
         "ensName": "soursage.eth"
       },
       {
-        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
-        "ensName": null
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-05T22:58:00.443Z"
+  "lastUpdated": "2025-02-05T22:58:14.507Z"
 }
