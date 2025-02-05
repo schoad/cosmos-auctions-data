@@ -5,7 +5,7 @@
     "endTime": 1738796940,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "20870000000.0",
+    "totalBids": "22780000000.0",
     "status": "active"
   },
   "bids": {
@@ -21,9 +21,9 @@
       "0.96",
       "0.96",
       "0.96",
+      "0.96",
       "0.95",
-      "0.94",
-      "0.93"
+      "0.95"
     ],
     "users": [
       {
@@ -71,18 +71,18 @@
         "ensName": null
       },
       {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
         "address": "0xcbdF47d77D7682655c7a69406655Ea0F52123f7A",
         "ensName": "ontidepa.eth"
       },
       {
-        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
-        "ensName": "jeigh.eth"
-      },
-      {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
+        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
+        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:04:59.636Z"
+  "lastUpdated": "2025-02-05T23:05:15.298Z"
 }
