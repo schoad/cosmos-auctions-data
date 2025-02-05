@@ -22,7 +22,7 @@
       "0.98",
       "0.98",
       "0.98",
-      "0.97",
+      "0.98",
       "0.97"
     ],
     "users": [
@@ -63,6 +63,10 @@
         "ensName": "wearevenom.eth"
       },
       {
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
+      },
+      {
         "address": "0xA6Ee17Ac8E5756FFF6b35b11C50DfDC1d6336116",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xFEB3821EBccF27F7D024F4b0aE8Dd6e8C685e248",
         "ensName": null
-      },
-      {
-        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
-        "ensName": "anitamaxwynn.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:17:59.140Z"
+  "lastUpdated": "2025-02-05T23:18:14.887Z"
 }
