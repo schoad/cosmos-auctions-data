@@ -10,6 +10,7 @@
   },
   "bids": {
     "amounts": [
+      "1.1",
       "0.96",
       "0.91",
       "0.84",
@@ -21,6 +22,10 @@
       "0.8"
     ],
     "users": [
+      {
+        "address": "0x00FB2499403aFeCcd48F0Fb29Da41CdE8c113D4B",
+        "ensName": "soberpunk.eth"
+      },
       {
         "address": "0xE3A05DDFD9e89907623d6866EcD64310A19895e6",
         "ensName": null
@@ -59,5 +64,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-05T17:48:35.727Z"
+  "lastUpdated": "2025-02-05T17:48:51.876Z"
 }
