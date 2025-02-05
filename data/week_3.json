@@ -17,10 +17,10 @@
       "1.01",
       "1.01",
       "1.01",
+      "1.01",
       "1.0",
       "1.0",
       "1.0",
-      "0.99",
       "0.99",
       "0.99",
       "0.99"
@@ -51,6 +51,10 @@
         "ensName": null
       },
       {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
         "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
         "ensName": "jeigh.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x427b543DfBF2E14F5d7a22a6c619d4bDeD7CE279",
         "ensName": null
-      },
-      {
-        "address": "0x2B2985B5c3047Df858F4B77795A88ec9349D4D64",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:23:00.217Z"
+  "lastUpdated": "2025-02-05T23:23:14.986Z"
 }
