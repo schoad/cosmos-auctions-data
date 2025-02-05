@@ -20,10 +20,10 @@
       "1.01",
       "1.01",
       "1.01",
+      "1.01",
       "1.0",
       "1.0",
-      "1.0",
-      "0.99"
+      "1.0"
     ],
     "users": [
       {
@@ -55,6 +55,10 @@
         "ensName": "leftyyyy.eth"
       },
       {
+        "address": "0x69C14D9B0073Cc2556aE014B99335bc380a5076f",
+        "ensName": null
+      },
+      {
         "address": "0x3671bE38eCB045bAC6081986AB668AfBd20db15E",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
         "ensName": null
-      },
-      {
-        "address": "0xbC70DE3CA1335C11a87926f270826377C9b1a4Ed",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:26:59.016Z"
+  "lastUpdated": "2025-02-05T23:27:14.376Z"
 }
