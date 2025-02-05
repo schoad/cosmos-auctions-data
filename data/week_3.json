@@ -19,7 +19,7 @@
       "1.01",
       "1.0",
       "1.0",
-      "0.99",
+      "1.0",
       "0.99",
       "0.99",
       "0.99",
@@ -59,6 +59,10 @@
         "ensName": "ontidepa.eth"
       },
       {
+        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
+        "ensName": "mugogi.eth"
+      },
+      {
         "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x2B2985B5c3047Df858F4B77795A88ec9349D4D64",
         "ensName": null
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:22:00.084Z"
+  "lastUpdated": "2025-02-05T23:22:14.935Z"
 }
