@@ -5,11 +5,12 @@
     "endTime": 1738796400,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "13340000000.0",
+    "totalBids": "14540000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
+      "1.2",
       "1.1",
       "1.05",
       "0.99",
@@ -22,10 +23,13 @@
       "0.84",
       "0.81",
       "0.81",
-      "0.8",
       "0.8"
     ],
     "users": [
+      {
+        "address": "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
+        "ensName": "whenlifegivesyouarenga.eth"
+      },
       {
         "address": "0x00FB2499403aFeCcd48F0Fb29Da41CdE8c113D4B",
         "ensName": "soberpunk.eth"
@@ -77,12 +81,8 @@
       {
         "address": "0xe91d95bA259C6D8001a06DeaF02F811baA3e2DFA",
         "ensName": "wearevenom.eth"
-      },
-      {
-        "address": "0xA6Ee17Ac8E5756FFF6b35b11C50DfDC1d6336116",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T20:18:24.670Z"
+  "lastUpdated": "2025-02-05T20:18:40.454Z"
 }
