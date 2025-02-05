@@ -5,7 +5,7 @@
     "endTime": 1738796400,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "19420000000.0",
+    "totalBids": "20340000000.0",
     "status": "active"
   },
   "bids": {
@@ -19,10 +19,10 @@
       "0.96",
       "0.94",
       "0.92",
+      "0.92",
       "0.91",
       "0.9",
       "0.89",
-      "0.88",
       "0.88"
     ],
     "users": [
@@ -63,6 +63,10 @@
         "ensName": "wearevenom.eth"
       },
       {
+        "address": "0x3671bE38eCB045bAC6081986AB668AfBd20db15E",
+        "ensName": null
+      },
+      {
         "address": "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
         "ensName": "soursage.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xcbdF47d77D7682655c7a69406655Ea0F52123f7A",
         "ensName": "ontidepa.eth"
-      },
-      {
-        "address": "0x8c77FC46Bac2649b55788c2f1657cABC32cE7AAF",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-05T22:55:14.467Z"
+  "lastUpdated": "2025-02-05T22:55:29.639Z"
 }
