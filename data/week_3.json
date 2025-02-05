@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 3,
     "startTime": 1738537200,
-    "endTime": 1738797660,
+    "endTime": 1738797840,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "23330000000.0",
+    "totalBids": "23340000000.0",
     "status": "active"
   },
   "bids": {
@@ -84,5 +84,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-05T23:18:14.887Z"
+  "lastUpdated": "2025-02-05T23:18:29.763Z"
 }
