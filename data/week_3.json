@@ -5,7 +5,7 @@
     "endTime": 1738796400,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "7570000000.0",
+    "totalBids": "8670000000.0",
     "status": "active"
   },
   "bids": {
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-05T17:48:51.876Z"
+  "lastUpdated": "2025-02-05T17:49:05.667Z"
 }
