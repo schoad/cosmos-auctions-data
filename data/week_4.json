@@ -5,7 +5,7 @@
     "endTime": 1739402820,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "21890000000.0",
+    "totalBids": "21920000000.0",
     "status": "active"
   },
   "bids": {
@@ -22,7 +22,7 @@
       "1.01",
       "1.01",
       "1.0",
-      "0.99",
+      "1.0",
       "0.99"
     ],
     "users": [
@@ -71,18 +71,18 @@
         "ensName": null
       },
       {
+        "address": "0xe91d95bA259C6D8001a06DeaF02F811baA3e2DFA",
+        "ensName": "wearevenom.eth"
+      },
+      {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
       },
       {
         "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
-      },
-      {
-        "address": "0x09276485fb976693E79ed9CF8DEfA435deB3BE1b",
-        "ensName": "gwiddy.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-12T23:23:03.423Z"
+  "lastUpdated": "2025-02-12T23:23:18.302Z"
 }
