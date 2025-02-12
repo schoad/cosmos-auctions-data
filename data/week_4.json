@@ -5,11 +5,12 @@
     "endTime": 1739401200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "15480000000.0",
+    "totalBids": "16710000000.0",
     "status": "active"
   },
   "bids": {
     "amounts": [
+      "1.23",
       "1.09",
       "1.08",
       "1.06",
@@ -22,10 +23,13 @@
       "0.87",
       "0.86",
       "0.86",
-      "0.86",
-      "0.85"
+      "0.86"
     ],
     "users": [
+      {
+        "address": "0xf954b7438bC1b47A6F09bCd154324DD545A0b1a6",
+        "ensName": null
+      },
       {
         "address": "0x0d8168554BA1039BA42fb64B86B4Ad1464215335",
         "ensName": null
@@ -77,12 +81,8 @@
       {
         "address": "0x09276485fb976693E79ed9CF8DEfA435deB3BE1b",
         "ensName": "gwiddy.eth"
-      },
-      {
-        "address": "0x76B4B991d3Ae570a2D0D04Ed511e9779080c5340",
-        "ensName": "-cuong-.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:50:02.428Z"
+  "lastUpdated": "2025-02-12T22:50:17.669Z"
 }
