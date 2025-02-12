@@ -5,7 +5,7 @@
     "endTime": 1739401200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "17660000000.0",
+    "totalBids": "17780000000.0",
     "status": "active"
   },
   "bids": {
@@ -15,6 +15,7 @@
       "1.08",
       "1.06",
       "0.96",
+      "0.95",
       "0.94",
       "0.9",
       "0.9",
@@ -22,8 +23,7 @@
       "0.9",
       "0.88",
       "0.88",
-      "0.87",
-      "0.86"
+      "0.87"
     ],
     "users": [
       {
@@ -45,6 +45,10 @@
       {
         "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
         "ensName": "anitamaxwynn.eth"
+      },
+      {
+        "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
+        "ensName": null
       },
       {
         "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
@@ -77,12 +81,8 @@
       {
         "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
-      },
-      {
-        "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:53:17.469Z"
+  "lastUpdated": "2025-02-12T22:53:32.773Z"
 }
