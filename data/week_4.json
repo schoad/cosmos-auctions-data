@@ -5,7 +5,7 @@
     "endTime": 1739401200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "17820000000.0",
+    "totalBids": "17870000000.0",
     "status": "active"
   },
   "bids": {
@@ -17,12 +17,12 @@
       "0.96",
       "0.95",
       "0.94",
+      "0.91",
       "0.9",
       "0.9",
       "0.9",
       "0.9",
       "0.9",
-      "0.88",
       "0.88"
     ],
     "users": [
@@ -55,6 +55,10 @@
         "ensName": null
       },
       {
+        "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
+        "ensName": null
+      },
+      {
         "address": "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
         "ensName": "whenlifegivesyouarenga.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
-      },
-      {
-        "address": "0x1F5d77f8aD8B15eb963c2C65D0d295104EA63335",
-        "ensName": "kokishin.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:54:02.574Z"
+  "lastUpdated": "2025-02-12T22:54:17.422Z"
 }
