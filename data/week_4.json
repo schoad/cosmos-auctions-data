@@ -19,8 +19,8 @@
       "1.05",
       "1.05",
       "1.05",
+      "1.04",
       "1.03",
-      "1.02",
       "1.02",
       "1.02",
       "1.02"
@@ -63,6 +63,10 @@
         "ensName": null
       },
       {
+        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
+        "ensName": null
+      },
+      {
         "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
         "ensName": "mugogi.eth"
-      },
-      {
-        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-12T23:27:48.593Z"
+  "lastUpdated": "2025-02-12T23:28:03.377Z"
 }
