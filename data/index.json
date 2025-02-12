@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-02-12 23:12:19",
+  "lastUpdated": "2025-02-12 23:12:34",
   "activeAndUpcomingAuctions": [
     {
       "weekNumber": 4,
       "status": "active",
       "startTime": 1739127600,
-      "endTime": 1739402100
+      "endTime": 1739402280
     }
   ]
 }
