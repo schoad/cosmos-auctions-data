@@ -16,14 +16,14 @@
       "1.06",
       "0.96",
       "0.95",
+      "0.95",
       "0.94",
       "0.93",
       "0.93",
       "0.92",
+      "0.92",
       "0.91",
-      "0.91",
-      "0.9",
-      "0.9"
+      "0.91"
     ],
     "users": [
       {
@@ -47,6 +47,10 @@
         "ensName": "anitamaxwynn.eth"
       },
       {
+        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
+        "ensName": null
+      },
+      {
         "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
         "ensName": null
       },
@@ -63,6 +67,10 @@
         "ensName": "gwiddy.eth"
       },
       {
+        "address": "0x76B4B991d3Ae570a2D0D04Ed511e9779080c5340",
+        "ensName": "-cuong-.eth"
+      },
+      {
         "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
         "ensName": null
       },
@@ -73,16 +81,8 @@
       {
         "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
         "ensName": null
-      },
-      {
-        "address": "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
-        "ensName": "whenlifegivesyouarenga.eth"
-      },
-      {
-        "address": "0xad83De234fD218391056786601022D384Cb0dcb8",
-        "ensName": "mugogi.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:59:47.573Z"
+  "lastUpdated": "2025-02-12T23:00:02.820Z"
 }
