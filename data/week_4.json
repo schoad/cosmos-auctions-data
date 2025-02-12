@@ -5,7 +5,7 @@
     "endTime": 1739401200,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "15450000000.0",
+    "totalBids": "15480000000.0",
     "status": "active"
   },
   "bids": {
@@ -22,7 +22,7 @@
       "0.87",
       "0.86",
       "0.86",
-      "0.85",
+      "0.86",
       "0.85"
     ],
     "users": [
@@ -67,6 +67,10 @@
         "ensName": null
       },
       {
+        "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
+        "ensName": null
+      },
+      {
         "address": "0xC77E83b862A7C1527C23B04834f694d17Fd0637C",
         "ensName": "soursage.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x76B4B991d3Ae570a2D0D04Ed511e9779080c5340",
         "ensName": "-cuong-.eth"
-      },
-      {
-        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:46:47.364Z"
+  "lastUpdated": "2025-02-12T22:47:02.664Z"
 }
