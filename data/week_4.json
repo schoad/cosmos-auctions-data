@@ -2,10 +2,10 @@
   "auction": {
     "auctionID": 4,
     "startTime": 1739127600,
-    "endTime": 1739401200,
+    "endTime": 1739401380,
     "winningBids": 14,
     "minStartingBid": "800000000.0",
-    "totalBids": "18800000000.0",
+    "totalBids": "19710000000.0",
     "status": "active"
   },
   "bids": {
@@ -18,9 +18,9 @@
       "0.95",
       "0.94",
       "0.93",
+      "0.92",
       "0.91",
-      "0.9",
-      "0.9",
+      "0.91",
       "0.9",
       "0.9",
       "0.9"
@@ -59,6 +59,14 @@
         "ensName": "wearevenom.eth"
       },
       {
+        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
+        "ensName": null
+      },
+      {
+        "address": "0xF38a691874F9A2A7ED2Be7e346e9960B5DA251Ea",
+        "ensName": null
+      },
+      {
         "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
         "ensName": null
       },
@@ -73,16 +81,8 @@
       {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
-      },
-      {
-        "address": "0x76B4B991d3Ae570a2D0D04Ed511e9779080c5340",
-        "ensName": "-cuong-.eth"
-      },
-      {
-        "address": "0x09276485fb976693E79ed9CF8DEfA435deB3BE1b",
-        "ensName": "gwiddy.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-12T22:58:47.704Z"
+  "lastUpdated": "2025-02-12T22:59:02.888Z"
 }
