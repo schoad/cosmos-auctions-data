@@ -22,7 +22,7 @@
       "0.93",
       "0.93",
       "0.93",
-      "0.92",
+      "0.93",
       "0.92"
     ],
     "users": [
@@ -63,6 +63,10 @@
         "ensName": null
       },
       {
+        "address": "0xF38a691874F9A2A7ED2Be7e346e9960B5DA251Ea",
+        "ensName": null
+      },
+      {
         "address": "0xe91d95bA259C6D8001a06DeaF02F811baA3e2DFA",
         "ensName": "wearevenom.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x76B4B991d3Ae570a2D0D04Ed511e9779080c5340",
         "ensName": "-cuong-.eth"
-      },
-      {
-        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-12T23:04:47.728Z"
+  "lastUpdated": "2025-02-12T23:05:02.983Z"
 }
