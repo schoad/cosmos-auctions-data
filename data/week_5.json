@@ -21,9 +21,9 @@
       "0.97",
       "0.97",
       "0.97",
+      "0.97",
       "0.96",
-      "0.96",
-      "0.95"
+      "0.96"
     ],
     "users": [
       {
@@ -67,6 +67,10 @@
         "ensName": null
       },
       {
+        "address": "0x14398d9ac62C2BfB20b594EE08fD972e4be866e9",
+        "ensName": null
+      },
+      {
         "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
         "ensName": null
-      },
-      {
-        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:10:55.305Z"
+  "lastUpdated": "2025-02-19T23:11:10.743Z"
 }
