@@ -12,6 +12,7 @@
     "amounts": [
       "1.02",
       "0.94",
+      "0.86",
       "0.8",
       "0.8",
       "0.8"
@@ -24,6 +25,10 @@
       {
         "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
         "ensName": "jeigh.eth"
+      },
+      {
+        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
+        "ensName": "anitamaxwynn.eth"
       },
       {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
@@ -39,5 +44,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T16:28:58.835Z"
+  "lastUpdated": "2025-02-19T16:29:03.303Z"
 }
