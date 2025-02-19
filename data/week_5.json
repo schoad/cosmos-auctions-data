@@ -18,12 +18,12 @@
       "1.06",
       "1.05",
       "1.02",
+      "0.97",
+      "0.97",
+      "0.96",
       "0.96",
       "0.95",
-      "0.95",
-      "0.94",
-      "0.93",
-      "0.91"
+      "0.95"
     ],
     "users": [
       {
@@ -59,6 +59,18 @@
         "ensName": "spiritape.eth"
       },
       {
+        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
+        "ensName": null
+      },
+      {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
+        "address": "0x9AD85d7C0f7eFF3D0718C3A3A032557558F7048b",
+        "ensName": null
+      },
+      {
         "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
         "ensName": null
       },
@@ -69,20 +81,8 @@
       {
         "address": "0x3c03aBbDC7ee255745944344B412e2A5043F8a99",
         "ensName": null
-      },
-      {
-        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
-        "ensName": "jeigh.eth"
-      },
-      {
-        "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
-        "ensName": "anitamaxwynn.eth"
-      },
-      {
-        "address": "0xd77a807Efbc8B518863ECDAf122eb09Af90719f6",
-        "ensName": "inclusivityvalue.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:09:55.343Z"
+  "lastUpdated": "2025-02-19T23:10:41.812Z"
 }
