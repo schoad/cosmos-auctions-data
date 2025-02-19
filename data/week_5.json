@@ -19,11 +19,11 @@
       "1.05",
       "1.05",
       "1.05",
+      "1.05",
       "1.03",
       "1.03",
       "1.03",
-      "1.02",
-      "0.98"
+      "1.02"
     ],
     "users": [
       {
@@ -63,6 +63,10 @@
         "ensName": null
       },
       {
+        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
+        "ensName": null
+      },
+      {
         "address": "0xd77a807Efbc8B518863ECDAf122eb09Af90719f6",
         "ensName": "inclusivityvalue.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
-      },
-      {
-        "address": "0x09564716E12eB2ca51f64d07d76AA88b7CDC0283",
-        "ensName": "jeigh.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:13:55.461Z"
+  "lastUpdated": "2025-02-19T23:14:55.511Z"
 }
