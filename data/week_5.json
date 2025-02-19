@@ -17,10 +17,10 @@
       "1.08",
       "1.06",
       "1.05",
+      "1.05",
       "1.03",
       "1.02",
       "0.98",
-      "0.97",
       "0.97",
       "0.97",
       "0.97"
@@ -51,6 +51,10 @@
         "ensName": null
       },
       {
+        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
+        "ensName": null
+      },
+      {
         "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0x14398d9ac62C2BfB20b594EE08fD972e4be866e9",
         "ensName": null
-      },
-      {
-        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:11:55.647Z"
+  "lastUpdated": "2025-02-19T23:12:10.506Z"
 }
