@@ -14,6 +14,7 @@
       "1.15",
       "1.1",
       "1.08",
+      "1.06",
       "1.05",
       "1.02",
       "0.95",
@@ -21,7 +22,6 @@
       "0.86",
       "0.83",
       "0.81",
-      "0.8",
       "0.8",
       "0.8"
     ],
@@ -41,6 +41,10 @@
       {
         "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
         "ensName": "rucogaj.eth"
+      },
+      {
+        "address": "0xCA83e6d17df3d7d2CC68f452ad264742410e4b3B",
+        "ensName": null
       },
       {
         "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
@@ -77,12 +81,8 @@
       {
         "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
         "ensName": null
-      },
-      {
-        "address": "0x0Eb21ed8543789C79bEd81D85b13eA31E7aC805b",
-        "ensName": "schoad.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-19T20:49:04.515Z"
+  "lastUpdated": "2025-02-19T22:37:52.553Z"
 }
