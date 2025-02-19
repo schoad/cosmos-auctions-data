@@ -20,9 +20,9 @@
       "1.05",
       "1.03",
       "1.03",
+      "1.03",
       "1.02",
       "0.98",
-      "0.97",
       "0.97"
     ],
     "users": [
@@ -67,6 +67,10 @@
         "ensName": null
       },
       {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xaBf382ADA3eef7dF396001D1bdfc4Fa4fa366989",
         "ensName": null
-      },
-      {
-        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:12:40.419Z"
+  "lastUpdated": "2025-02-19T23:13:40.575Z"
 }
