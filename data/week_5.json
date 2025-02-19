@@ -12,6 +12,7 @@
     "amounts": [
       "1.15",
       "1.1",
+      "1.05",
       "1.02",
       "0.94",
       "0.86",
@@ -28,6 +29,10 @@
       {
         "address": "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
         "ensName": "whenlifegivesyouarenga.eth"
+      },
+      {
+        "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
+        "ensName": null
       },
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
@@ -59,5 +64,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T16:35:11.816Z"
+  "lastUpdated": "2025-02-19T16:35:14.472Z"
 }
