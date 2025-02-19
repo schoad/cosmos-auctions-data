@@ -20,6 +20,7 @@
       "0.94",
       "0.86",
       "0.83",
+      "0.81",
       "0.8",
       "0.8",
       "0.8"
@@ -66,6 +67,10 @@
         "ensName": null
       },
       {
+        "address": "0xe91d95bA259C6D8001a06DeaF02F811baA3e2DFA",
+        "ensName": "wearevenom.eth"
+      },
+      {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
       },
@@ -79,5 +84,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T20:11:03.306Z"
+  "lastUpdated": "2025-02-19T20:49:04.515Z"
 }
