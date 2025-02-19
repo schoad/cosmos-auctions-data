@@ -23,7 +23,7 @@
       "0.86",
       "0.85",
       "0.83",
-      "0.81"
+      "0.83"
     ],
     "users": [
       {
@@ -79,10 +79,10 @@
         "ensName": null
       },
       {
-        "address": "0xe91d95bA259C6D8001a06DeaF02F811baA3e2DFA",
-        "ensName": "wearevenom.eth"
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T22:58:20.140Z"
+  "lastUpdated": "2025-02-19T23:02:55.535Z"
 }
