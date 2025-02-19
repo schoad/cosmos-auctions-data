@@ -13,6 +13,7 @@
       "1.21",
       "1.15",
       "1.1",
+      "1.08",
       "1.05",
       "1.02",
       "0.95",
@@ -35,6 +36,10 @@
       {
         "address": "0xf2a7BE2d334Db950B8e490Def5412827eac8494c",
         "ensName": "whenlifegivesyouarenga.eth"
+      },
+      {
+        "address": "0xfc7355bf612fb59043B0AC3d728942F41A3e3905",
+        "ensName": "rucogaj.eth"
       },
       {
         "address": "0x61680e1ac97C4CCa7d259db934C48d4efA1617Bd",
@@ -74,5 +79,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T18:21:46.010Z"
+  "lastUpdated": "2025-02-19T20:11:03.306Z"
 }
