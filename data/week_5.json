@@ -10,6 +10,7 @@
   },
   "bids": {
     "amounts": [
+      "1.15",
       "1.02",
       "0.94",
       "0.86",
@@ -19,6 +20,10 @@
       "0.8"
     ],
     "users": [
+      {
+        "address": "0xE3A05DDFD9e89907623d6866EcD64310A19895e6",
+        "ensName": null
+      },
       {
         "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
         "ensName": "spiritape.eth"
@@ -49,5 +54,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T16:33:00.238Z"
+  "lastUpdated": "2025-02-19T16:33:03.316Z"
 }
