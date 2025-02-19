@@ -10,6 +10,7 @@
   },
   "bids": {
     "amounts": [
+      "1.21",
       "1.15",
       "1.1",
       "1.05",
@@ -23,6 +24,10 @@
       "0.8"
     ],
     "users": [
+      {
+        "address": "0x0d8168554BA1039BA42fb64B86B4Ad1464215335",
+        "ensName": null
+      },
       {
         "address": "0xE3A05DDFD9e89907623d6866EcD64310A19895e6",
         "ensName": null
@@ -69,5 +74,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T16:38:37.522Z"
+  "lastUpdated": "2025-02-19T16:38:40.186Z"
 }
