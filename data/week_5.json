@@ -13,6 +13,7 @@
       "1.02",
       "0.94",
       "0.86",
+      "0.83",
       "0.8",
       "0.8",
       "0.8"
@@ -31,6 +32,10 @@
         "ensName": "anitamaxwynn.eth"
       },
       {
+        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
+        "ensName": null
+      },
+      {
         "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
         "ensName": null
       },
@@ -44,5 +49,5 @@
       }
     ]
   },
-  "lastUpdated": "2025-02-19T16:31:08.011Z"
+  "lastUpdated": "2025-02-19T16:31:14.540Z"
 }
