@@ -1,0 +1,33 @@
+{
+  "auction": {
+    "auctionID": 5,
+    "startTime": 1739815200,
+    "endTime": 1740006000,
+    "winningBids": 14,
+    "minStartingBid": "800000000.0",
+    "totalBids": "2620000000.0",
+    "status": "active"
+  },
+  "bids": {
+    "amounts": [
+      "1.02",
+      "0.8",
+      "0.8"
+    ],
+    "users": [
+      {
+        "address": "0x45133DB3eadD8718F5C3a868eC2f7148E460DCFd",
+        "ensName": "spiritape.eth"
+      },
+      {
+        "address": "0x94C47ed35fD041953352cD483b66ad1DBA05E31F",
+        "ensName": null
+      },
+      {
+        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
+        "ensName": null
+      }
+    ]
+  },
+  "lastUpdated": "2025-02-19T14:29:23.478Z"
+}
