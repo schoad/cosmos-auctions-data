@@ -1,11 +1,14 @@
 {
-  "lastUpdated": "2025-02-19 15:59:49",
+  "lastUpdated": "2025-02-19 16:00:19",
   "activeAndUpcomingAuctions": [
     {
-      "weekNumber": 5,
-      "status": "active",
+      "auctionID": 5,
       "startTime": 1739815200,
-      "endTime": 1740006000
+      "endTime": 1740006000,
+      "winningBids": 14,
+      "minStartingBid": "800000000.0",
+      "totalBids": "3420000000.0",
+      "status": "active"
     }
   ]
 }
