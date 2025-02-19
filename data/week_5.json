@@ -20,9 +20,9 @@
       "1.02",
       "0.95",
       "0.94",
+      "0.87",
+      "0.87",
       "0.86",
-      "0.85",
-      "0.85",
       "0.85"
     ],
     "users": [
@@ -67,22 +67,22 @@
         "ensName": "jeigh.eth"
       },
       {
+        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
+        "ensName": null
+      },
+      {
+        "address": "0x0f58f78fB0E57004854b33688a41337C2Dd387CB",
+        "ensName": null
+      },
+      {
         "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
         "ensName": "anitamaxwynn.eth"
       },
       {
         "address": "0xd77a807Efbc8B518863ECDAf122eb09Af90719f6",
         "ensName": "inclusivityvalue.eth"
-      },
-      {
-        "address": "0xaBf382ADA3eef7dF396001D1bdfc4Fa4fa366989",
-        "ensName": null
-      },
-      {
-        "address": "0x455A573B8B5d68eC60558062b658724545673424",
-        "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:05:41.670Z"
+  "lastUpdated": "2025-02-19T23:06:40.241Z"
 }
