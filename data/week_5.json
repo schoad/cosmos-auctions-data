@@ -18,12 +18,12 @@
       "1.06",
       "1.05",
       "1.02",
+      "0.96",
       "0.95",
       "0.94",
       "0.87",
       "0.87",
-      "0.86",
-      "0.85"
+      "0.86"
     ],
     "users": [
       {
@@ -59,6 +59,10 @@
         "ensName": "spiritape.eth"
       },
       {
+        "address": "0x62416ad97AD8700eDB9A229Bc3CCe7d2913982Fe",
+        "ensName": null
+      },
+      {
         "address": "0x3c03aBbDC7ee255745944344B412e2A5043F8a99",
         "ensName": null
       },
@@ -77,12 +81,8 @@
       {
         "address": "0xc4FA8a28140E4BC044FDd85F2d3428a13CE093E4",
         "ensName": "anitamaxwynn.eth"
-      },
-      {
-        "address": "0xd77a807Efbc8B518863ECDAf122eb09Af90719f6",
-        "ensName": "inclusivityvalue.eth"
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:06:40.241Z"
+  "lastUpdated": "2025-02-19T23:08:25.289Z"
 }
