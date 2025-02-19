@@ -23,7 +23,7 @@
       "0.86",
       "0.85",
       "0.85",
-      "0.83"
+      "0.85"
     ],
     "users": [
       {
@@ -75,14 +75,14 @@
         "ensName": "inclusivityvalue.eth"
       },
       {
-        "address": "0x455A573B8B5d68eC60558062b658724545673424",
+        "address": "0xaBf382ADA3eef7dF396001D1bdfc4Fa4fa366989",
         "ensName": null
       },
       {
-        "address": "0x498270CBB19dfF7cDa0C36d39808F23b9d93dedF",
+        "address": "0x455A573B8B5d68eC60558062b658724545673424",
         "ensName": null
       }
     ]
   },
-  "lastUpdated": "2025-02-19T23:05:25.570Z"
+  "lastUpdated": "2025-02-19T23:05:41.670Z"
 }
